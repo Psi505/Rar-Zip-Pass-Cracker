@@ -1,4 +1,3 @@
-# Compiled by Solar Designer
 12345
 abc123
 password
