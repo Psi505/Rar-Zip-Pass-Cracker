@@ -1,10 +1,16 @@
-This is a very simple batch script that will help you to crack rar/7z/zip passwords.
+# Password Cracking Proof of Concept
 
-All what you have to do is just double click the file and follow the steps.
+This batch script is a proof of concept for a simple bruteforce attack on password-protected archives (rar/7z/zip). It is intended for educational purposes only and should not be used for any malicious activities.
 
-You need wordlist or dictionary for the program, so I added two wordlists, but you may 
-need better ones. Try the ones in "wordlists/__links__.txt"
-        
-* The speed of this program depends on the hardware, but if you are planning to crack complex 
-  passwords then this is not the appropriate tool for you.
-* This program is proof of concept of simple bruteforce attack on password protected archives.
+## Usage
+
+1. Double-click `Rar Pass Cracker.bat` to execute the program.
+2. Follow the on-screen instructions.
+
+**Notes:**
+- Ensure you have the necessary wordlist or dictionary for the program.
+- The speed of the program depends on hardware, and it may not be suitable for complex passwords.
+
+## Wordlists
+
+Included in the "wordlists" directory are two sample wordlists. For better results, consider using more comprehensive wordlists available online. Be sure to respect the licensing terms of any wordlists you use.
