@@ -1,4 +1,4 @@
-# Password Cracking Proof of Concept
+## Description
 
 This batch script is a proof of concept for a simple bruteforce attack on password-protected archives (rar/7z/zip). It is intended for educational purposes only and should not be used for any malicious activities.
 
